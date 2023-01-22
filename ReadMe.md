@@ -10,14 +10,14 @@
 
 <br />
 
-hi, i'm Ameya Natu, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Ameya Natu, As a Software Development Engineer in Test (SDET), I have a strong background in software development and a passion for quality assurance. I have experience in both manual and automated testing, as well as experience in several programming languages such as JavaScript, Python. I am familiar with test automation frameworks such as Selenium, Appium, and JUnit. I have a solid understanding of Agile methodologies and have experience working in Scrum teams. I am also experienced in using Git and Github for version control and collaboration. I am constantly learning new technologies and methodologies to improve my skills and stay up-to-date with the latest industry trends.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/ameyanatu/ameyanatu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:ameyanatu@yahoo.com) :)
+- 💼 any questions or opportunities ? do reach, [email](mailto:ameyanatu@yahoo.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
