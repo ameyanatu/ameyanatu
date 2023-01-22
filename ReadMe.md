@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm Ameya Natu, I am Software Development Engineer in Test (SDET) from India, I have a strong background in software development and a passion for quality assurance. I have experience in both manual and automated testing, as well as experience in several programming languages such as JavaScript, Python. I am familiar with test automation frameworks such as Selenium, Appium, and JUnit. I have a solid understanding of Agile methodologies and have experience working in Scrum teams. I am also experienced in using Git and Github for version control and collaboration. I am constantly learning new technologies and methodologies to improve my skills and stay up-to-date with the latest industry trends.
+hi, i'm Ameya Natu, I am Software Development Engineer in Test (SDET) from India, I have a strong background in software development and a passion for quality assurance. I have experience in both manual and automated testing, as well as experience in several programming languages such as JavaScript, Python. I am familiar with test automation frameworks such as Robot Framework, PlayWright, Selenium. I have a solid understanding of Agile methodologies and have experience working in Scrum teams. I am also experienced in using Git and Github for version control and collaboration. I am constantly learning new technologies and methodologies to improve my skills and stay up-to-date with the latest industry trends.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -25,6 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
