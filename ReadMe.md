@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm Ameya Natu, I am Software Development Engineer in Test (SDET) from India, I have a strong background in software development and a passion for quality assurance. I have experience in both manual and automated testing, as well as experience in several programming languages such as JavaScript, Python. I am familiar with test automation frameworks such as Robot Framework, PlayWright, Selenium. I have a solid understanding of Agile methodologies and have experience working in Scrum teams. I am also experienced in using Git and Github for version control and collaboration. I am constantly learning new technologies and methodologies to improve my skills and stay up-to-date with the latest industry trends.
+hi, i'm Ameya Natu, I am an IT professional from India, I have a strong background in software development and a passion for quality assurance and Technical Support. I have experience in both manual and automated testing, as well as experience in several programming languages such as JavaScript, Python. I am familiar with test automation frameworks such as Robot Framework, PlayWright, Selenium. I have a solid understanding of Agile methodologies and have experience working in Scrum teams. I am also experienced in using Git and Github for version control and collaboration. I am constantly learning new technologies and methodologies to improve my skills and stay up-to-date with the latest industry trends.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
