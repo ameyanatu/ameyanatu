@@ -1,4 +1,4 @@
-Hello, I'm Ameya Natu, an IT professional from India with a robust background in software development, quality assurance, and technical support. I have extensive experience in both manual and automated testing, and I am proficient in several programming languages, including JavaScript and Python. My expertise includes working with test automation frameworks such as Robot Framework, Cypress, and Selenium.
+Hello, I'm Ameya Natu, an IT professional from India with a robust background in software development, quality assurance, and technical support. I have extensive experience in both manual and automated testing, and I am proficient in several programming languages, including JavaScript and Python. My expertise includes working with test automation frameworks such as Robot Framework, Cypress, Selenium, Appium & Maestro Mobile Automation Tool.
 
 I have a strong understanding of Agile methodologies and practical experience working in Scrum teams. Additionally, I am skilled in using Git and GitHub for version control and collaboration. Currently, I am expanding my knowledge by learning AWS and DevOps to further enhance my skill set.
 
